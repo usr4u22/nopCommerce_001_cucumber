@@ -106,8 +106,8 @@ public class Registration_nopCommerce {
 	}
 	
 	
-   @When("User close the browser")
-	public void user_close_the_browser() {
+   @When("User closed the browser")
+	public void user_closed_the_browser() {
 	    driver.quit();
 	}
 

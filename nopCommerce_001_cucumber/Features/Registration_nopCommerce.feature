@@ -15,4 +15,4 @@ And   User Uncheck the Newsletter
 And   User enters password
 And   User enters confirm password
 When  User click on Register button
-And   User close the browser
+And   User  closed the browser
